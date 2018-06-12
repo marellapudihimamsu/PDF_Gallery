@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   >
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="want to see all pdfs in your phone? then tap on this message!"
+        android:gravity="center"
+        android:textSize="50sp"
+        android:id="@+id/b1"
+         />
+</LinearLayout>
